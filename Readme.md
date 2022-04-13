@@ -1,3 +1,3 @@
 Readme no prjeto git
 
-git
+git ->
